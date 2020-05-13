@@ -1,0 +1,24 @@
+{
+  "name": "@westrem/pretty_linty_typescripty",
+  "version": "1.0.0",
+  "description": "Prettier, ESLint and TypeScript configs ",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/westrem/pretty_linty_typescripty.git"
+  },
+  "keywords": [
+    "prettier",
+    "typescript",
+    "eslint",
+    "config"
+  ],
+  "author": "Jan Jadud <hello@gojadud.com> (https://gojadud.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/westrem/pretty_linty_typescripty/issues"
+  },
+  "homepage": "https://github.com/westrem/pretty_linty_typescripty#readme",
+  "private": false
+}
